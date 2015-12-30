@@ -1,0 +1,14 @@
+layout_spectrum: 0.6541219
+color:
+  saturation: 0.4928315
+  brandStrength: 0.231525
+  lightness: 0.3044225
+  rhythmicContrast: 0.383251
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.234767
+name: Theindigo
